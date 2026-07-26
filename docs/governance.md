@@ -258,6 +258,32 @@ with the full TSC.
 
 ---
 
+## Enterprise Program
+
+The **ACP Enterprise Program** is a commercial support and engagement tier
+distinct from the governance structure described above. It provides
+organizations with service-level agreements, dedicated support channels, and
+early visibility into spec changes for production deployments of ACP.
+
+The Enterprise Program is administered by the Founding Maintainers as a
+commercial offering. It is **explicitly separate from TSC governance**:
+
+- Enterprise status does not grant a TSC or DWG seat.
+- Enterprise status does not grant voting rights, sponsorship privileges, or
+  any authority over the SEP process.
+- Enterprise customers propose changes through the same
+  [SEP process](./sep-guidelines.md) as any other contributor.
+- No enterprise customer receives preferential treatment in how proposals are
+  evaluated or adopted.
+
+This separation preserves the integrity of ACP as an open standard. The
+Enterprise Program funds ongoing stewardship, tooling, and support of the
+protocol, but it does not purchase direction. See the
+[Enterprise Program documentation](./enterprise.md) for the full feature set,
+SLA matrix, and engagement model.
+
+---
+
 ## Future Evolution and Neutral Governance
 
 The Founding Maintainers recognize the long-term goal of transitioning ACP

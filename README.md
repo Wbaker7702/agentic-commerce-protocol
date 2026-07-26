@@ -55,6 +55,7 @@ changelog/
 
 docs/
 ├── governance.md
+├── enterprise.md
 ├── principles-mission.md
 └── sep-guidelines.md
 
@@ -124,6 +125,7 @@ To start building with ACP:
 | Checkout API Spec     | [spec/2026-04-17/openapi/openapi.agentic_checkout.yaml](spec/2026-04-17/openapi/openapi.agentic_checkout.yaml)         |
 | Delegate Payment Spec | [spec/2026-04-17/openapi/openapi.delegate_payment.yaml](spec/2026-04-17/openapi/openapi.delegate_payment.yaml)         |
 | Governance            | [docs/governance.md](docs/governance.md)                                                                               |
+| Enterprise Program    | [docs/enterprise.md](docs/enterprise.md)                                                                               |
 | Project Principles    | [docs/principles-mission.md](docs/principles-mission.md)                                                               |
 | SEP Guidelines        | [docs/sep-guidelines.md](docs/sep-guidelines.md)                                                                       |
 
@@ -169,6 +171,7 @@ See [docs/governance.md](docs/governance.md) for guidance on what requires a SEP
 ACP is jointly governed by **OpenAI** and **Stripe** as Founding Maintainers, with a clear path toward broader community governance.
 
 - **Governance Model**: [docs/governance.md](docs/governance.md)
+- **Enterprise Program**: [docs/enterprise.md](docs/enterprise.md) — commercial support tier, separate from governance
 - **Project Principles**: [docs/principles-mission.md](docs/principles-mission.md)
 - **Maintainers**: [MAINTAINERS.md](MAINTAINERS.md)
 - **Decision Process**: Consensus-based with escalation procedures
